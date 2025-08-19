@@ -169,7 +169,7 @@ int main()
 
     Employee1.Print();
     Employee1.SendEmail("Internship Job", "ITI");
-    Employee1.SendSMS("Please I need an internship Microsoft");
+    Employee1.SendSMS("Please I need an Microsoft Intership");
 
     system("pause>0");
     return 0;
